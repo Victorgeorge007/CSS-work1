@@ -1,0 +1,47 @@
+h1{color: rgb(182, 33, 127);
+    text-align: center;
+}
+.backspace{background-color: rgb(6, 35, 42);
+height: 100vh;
+padding: 30px
+}
+.in-form{
+height: 100%;
+background-color: rgb(24, 13, 13);
+width: 300px;
+margin:30px auto;
+padding: 10px;
+border: 2px solid black;
+}
+label{display: block;
+margin: 15px 0px;
+color: white;
+
+}
+input{
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    display: inline;
+}
+
+button{
+    background-color: brown;
+    margin-top: 15px;
+    width: 100%;
+    border: none;
+    padding: 10px 0;
+}
+::placeholder{
+    color: rgb(79, 65, 65);
+    padding: 0 5px;
+    text-align: center;
+}
+.sign-up{
+    color: white;
+}
+
+
+
+
+
